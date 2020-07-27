@@ -1,11 +1,10 @@
         @resgistration
-Feature: Log in Website SSC
+Feature: Registrasi Website bukalapak
 
 As Admin, I ahould be able to Log in
 
 @PositiveTesting
-Scenario: Login using valid email
-
+Scenario: Registrasi using valid email
     Given I go to Web bukalapak
     When I click registration button
     And I Input username
