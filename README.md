@@ -62,28 +62,28 @@ npm run cypress         #Running test case
     │           credential.json
     │           
     ├───integration
-    │   │   login.feature
+    │   │   registrasi.feature
     │   │   
     │   └───common
-    │           login.js
+    │           registrasi.js
     │           
     ├───plugins
     │       index.js
     │       
     ├───reports
     │   └───results
-    │           login.cucumber.json
+    │           registrasi.cucumber.json
     │           
     ├───screenshots
-    │   └───login.feature
-    │           Log in Website SSC -- Login using valid email (failed).png
+    │   
+    │          
     │           
     ├───support
     │       commands.js
     │       index.js
     │       
     └───videos
-            login.feature.mp4
+            registrasi.feature.mp4
 ```
 
 
@@ -97,3 +97,4 @@ report it can be 3 type :
 
 ## Notes
 - this project use Windows set up, so need to simple set up if wanna use unix
+
