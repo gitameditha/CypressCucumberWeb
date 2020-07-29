@@ -22,7 +22,7 @@ node installation
   }
 ```
 
-- Set up node
+- install modules
 ```
 npm install
 ```
