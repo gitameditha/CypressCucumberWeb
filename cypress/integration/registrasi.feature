@@ -1,7 +1,7 @@
         @resgistration
 Feature: Registrasi Website bukalapak
 
-As Admin, I ahould be able to Log in
+As user, I should be able to Log in
 
 @PositiveTesting
 Scenario: Registrasi using valid email
