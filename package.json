@@ -11,7 +11,7 @@
     "open-reports": "open 'cypress/reports/index.html'"
   },
   "devDependencies": {
-    "cypress": "^4.4.0",
+    "cypress": "^4.12.1",
     "cypress-cucumber-preprocessor": "^2.5.3",
     "cypress-dotenv": "^1.2.2",
     "dotenv": "^8.2.0",
