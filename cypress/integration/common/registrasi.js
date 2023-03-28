@@ -3,7 +3,7 @@ import { Then, Given, When, when, and, And } from 'cypress-cucumber-preprocessor
 const data = require('./../../fixtures/seed_data/credential.json');
 
 
-const regisButton = '[href="/register?from=nav_header&comeback=https://www.bukalapak.com/"] > .pr-4';
+const regisButton = '.bl-link > .pr-4';
 const usernameField = '#user_name';
 const emailField = '#email_or_phone';
 const genderRadioButton = ':nth-child(1) > .c-inp__inner-lbl';
