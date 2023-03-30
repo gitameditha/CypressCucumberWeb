@@ -96,4 +96,4 @@ report it can be 3 type :
 - Json
 
 ## Notes
-- this project use Windows set up, so need to simple set up if wanna use unix
+- this project run in UNIX
